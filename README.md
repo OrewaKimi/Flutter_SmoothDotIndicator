@@ -17,7 +17,7 @@ Project ini punya dua fokus utama:
 
 ## 🎨 Perbedaan Efek Indikator
 
-Di project ini, kamu bisa bebas ganti-ganti efek `smooth_page_indicator`. Kita akan bahas dua efek utama yang biasa dipakai:
+Di project ini,bisa bebas ganti-ganti efek `smooth_page_indicator`. Kita akan bahas dua efek utama yang biasa dipakai:
 
 ### 🔄 SwapEffect
 - Efek ini membuat titik indikator seperti **bertukar tempat** dengan titik yang sedang aktif.
